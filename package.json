@@ -1,0 +1,6 @@
+{
+  "name": "n8n-agent-demo",
+  "version": "1.0.0",
+  "description": "Demo project for n8n AI Agent",
+  "main": "index.js"
+}
